@@ -1,3 +1,3 @@
 # cookiecutter-python
 
-Very basic template for Python projects
+Very basic [Cookiecutter](https://github.com/audreyr/cookiecutter) template for Python projects
